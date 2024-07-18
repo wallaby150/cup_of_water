@@ -1,0 +1,15 @@
+#counter {
+  display: inline-block;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30vh;
+}
+
+#number {
+  font-size: 8rem;
+  margin: 0;
+}
